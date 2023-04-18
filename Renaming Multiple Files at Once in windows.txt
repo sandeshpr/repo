@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=znhqGrF4gVQ
+
+=len(cell,len(cell)-n)    >>>n is the number of character to remove from right
+
+==C1&" """&A1&""" """&B1&"" concatinate with "" to rename ren "old filename" "new file name"
+
+copy old file name rename new file name and paste into cmd prompt
